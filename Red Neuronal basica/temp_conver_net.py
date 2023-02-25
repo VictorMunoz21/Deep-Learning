@@ -55,5 +55,5 @@ Realicemos una prediccón
 """
 
 print("Realizando una predicción")
-result = model.predict([42])
+result = model.predict([58])
 print("El resultado de la conversión es: "+ str(result) + "fahrenheit")
